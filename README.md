@@ -14,13 +14,13 @@ These are the projects I'm working with to provide shareholder value to my busin
 graph TD;
     A[Laughing Jackalope] --> B[Cloud Provider];
     A --> C[Enterprise Open Source];
-    B --> D[Private];
+    B --> D[Services];
     C --> D;
     D --> E[Shareholder Value];
     E --> F[Business Partners];
     E --> G[Clients];
-    F --> G;
-    G --> F;
+
+
 ```
 
-Does github support mermaid? I guess we'll find out.
+You know what I'm sayin?
