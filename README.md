@@ -8,4 +8,19 @@ I'm not a jackalope, but I do like to laugh. It's close enough for me. You know 
 
 My commit history on this account won't tell you much, I do a lot of ugly coding to build a cloud provider and that's on the private. Right now private is main and public is alt, we're going to switch that around real soon. As that happens you'll see a number of enterprise open source projects on my pinned page. 
 
-These are the projects I'm working with to provide shareholder value to my business partners. 
+These are the projects I'm working with to provide shareholder value to my business partners and clients. 
+
+```mermaid
+graph TD;
+    A[Laughing Jackalope] --> B[Cloud Provider];
+    A --> C[Enterprise Open Source];
+    B --> D[Private];
+    C --> D;
+    D --> E[Shareholder Value];
+    E --> F[Business Partners];
+    E --> G[Clients];
+    F --> G;
+    G --> F;
+```
+
+Does github support mermaid? I guess we'll find out.
