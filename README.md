@@ -13,18 +13,3 @@ I build the substrate: GPU compute platforms, inference gateways, agent scaffold
 ### [skyhook](https://github.com/LaughingJackalope/skyhook)
 GPU compute-as-a-service on EKS — Karpenter autoprovisioning, EFA for multi-node training, FSx for Lustre with NVMe caching, SkyPilot interface, Flux GitOps. Built so ML researchers can submit a job without knowing what a NodePool is.
 
----
-
-## also in the engine room
-
-| repo | what it is |
-|------|-----------|
-| [inferenceGateway](https://github.com/LaughingJackalope/inferenceGateway) | Swift-native inference in a small package |
-| [actions-patterns](https://github.com/LaughingJackalope/actions-patterns) | GitHub Actions cookbook — reusable patterns for situations I keep hitting *(coming soon)* |
-| [flink-agents](https://github.com/LaughingJackalope/flink-agents) | Working with the Apache Flink agentic AI framework. Part of a larger distributed agent runtime being built in the open. |
-
----
-
-## what I write about
-
-Platform trickery at [laughingjackalope.github.io](https://laughingjackalope.github.io) — the Karpenter edge cases, the SOCI lazy-loading wins, the things that only make sense after you've been paged at 2am. Also weird esoterics. The two are more related than they appear.
